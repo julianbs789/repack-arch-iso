@@ -1,0 +1,4 @@
+cloudinit/seed.img
+cloudinit/user-data
+*.iso
+id_ed25519.priv*
